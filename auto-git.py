@@ -21,7 +21,7 @@ def git_auto_commit_push(repo_path, commit_message):
 
         print(f"system DETAIL:\t {e}")
 
-git_repo_path = "D:\Code\Web_commercial_website_for_creator"
+git_repo_path = "D:\GitHub\Web_commercial_website_for_creator"
 
 current_time = datetime.now()
 commit_message = formatted_time = current_time.strftime("%Y/%m/%d %H:%M")
