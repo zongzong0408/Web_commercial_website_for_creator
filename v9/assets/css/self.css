@@ -34,12 +34,12 @@ body {
     padding: 10px 20px;
 }
 
-/* .search_bar input {
+.search_bar input {
     background: transparent;
     flex: 1;
     border: 0;
     outline: none;
     padding: 24px 20px;
     font-size: 20px;
-    color: wheat;
-} */
+    color: #cac7ff;
+}
