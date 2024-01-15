@@ -18,6 +18,10 @@ body {
 	overflow: auto;
 }
 
+.search_container {
+    
+}
+
 .search_bar {
     width: 50%;
     max-width: 500px;
