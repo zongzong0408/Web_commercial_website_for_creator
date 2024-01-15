@@ -19,7 +19,15 @@ body {
 }
 
 .search_container {
-    
+    width: 100%;
+    min-height: 100vh;
+    padding: 5%;
+    background-image: linear-gradient(red, yellow, blue);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .search_bar {
@@ -28,7 +36,6 @@ body {
     background-color: blueviolet;
     display: flex;
     align-items: center;
-    justify-content: center;
     border-radius: 60px;
     padding: 10px 20px;
 }
