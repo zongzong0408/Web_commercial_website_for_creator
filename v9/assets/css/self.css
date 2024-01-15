@@ -20,7 +20,9 @@ body {
 
 .search_container {
     width: 50%;
-    height: 50%;
+    height: 20%;
+    margin-left: 50%;
+    margin-right: 50%;
     padding: 5%;
     background-image: linear-gradient(red, yellow, blue);
     background-position: center;
@@ -28,6 +30,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+
 }
 
 .search_bar {
