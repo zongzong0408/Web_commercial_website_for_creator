@@ -18,8 +18,9 @@ body {
 	overflow: auto;
 }
 
-.search_bar_container {
-
+.search_container {
+    align-items: center;
+    justify-content: center;
 }
 
 .search_bar {
@@ -28,7 +29,6 @@ body {
     background-color: rgb(255, 255, 255, 0.2);
     display: flex;
     align-items: center;
-    /* justify-content: center; */
     transform: translate(50%, -50%);
     border-radius: 60px;
     padding: 10px 20px;
