@@ -369,11 +369,10 @@ header .navbar {
 }
 
 .banner .text-content h2 {
-	color: black;
+	color: #fff;
 	font-size: 62px;
 	text-transform: uppercase;
 	letter-spacing: 5px;
-	font-size: large;
 }
 
 .owl-banner .owl-dots .owl-dot {
