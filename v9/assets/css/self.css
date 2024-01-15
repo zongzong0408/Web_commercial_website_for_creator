@@ -20,7 +20,7 @@ body {
 
 .search_container {
     width: 50%;
-    max-height: 100px;
+    max-height: 10%;
     padding: 5%;
     background-image: linear-gradient(red, yellow, blue);
     background-position: center;
