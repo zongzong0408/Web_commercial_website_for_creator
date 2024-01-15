@@ -18,6 +18,11 @@ body {
 	overflow: auto;
 }
 
-search_bar {
+.search_bar {
+    width: 50%;
+    max-width: 500px;
+    background-color: blueviolet;
+    display: flex;
+    align-items: center;
     
 }
