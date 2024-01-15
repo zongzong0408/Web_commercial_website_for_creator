@@ -1,5 +1,6 @@
 import os
 from datetime import datetime
+import time
 
 def git_auto_commit_push(repo_path, commit_message):
 
@@ -26,4 +27,7 @@ git_repo_path = "D:\Code\Web_commercial_website_for_creator"
 current_time = datetime.now()
 commit_message = formatted_time = current_time.strftime("%Y/%m/%d %H:%M")
 
-git_auto_commit_push(git_repo_path, commit_message)
+while (True):
+
+    time.sleep(30)
+    git_auto_commit_push(git_repo_path, commit_message)
