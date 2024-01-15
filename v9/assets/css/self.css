@@ -24,5 +24,6 @@ body {
     background-color: blueviolet;
     display: flex;
     align-items: center;
-    
+    border-radius: 60px;
+    padding: 10px 20px;
 }
