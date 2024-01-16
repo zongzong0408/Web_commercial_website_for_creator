@@ -32,7 +32,8 @@ body {
     align-items: center;
     border-radius: 60px;
     padding: 10px 20px;
-}
+    backdrop-filter: blur(4px) saturate(180%);
+} 
 
 .search_bar input {
     background: transparent;
