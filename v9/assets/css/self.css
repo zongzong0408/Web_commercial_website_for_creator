@@ -21,6 +21,7 @@ body {
 .search_container {
     width: 1000px;
     height: 800px;
+    background-color: #58629b;
     display: flex;
     align-items: center;
     justify-content: center;
