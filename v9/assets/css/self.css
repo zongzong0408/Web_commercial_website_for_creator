@@ -64,6 +64,6 @@ body {
 
 .pic1 {
     width: 50%;
-    max-width: 500px;
     height: auto;
+    display: flex;
 }
