@@ -27,7 +27,7 @@ body {
 .search_bar {
     width: 100%;
     max-width: 500px;
-    background: red;
+    background: red !important;
     display: flex;
     align-items: center;
     border-radius: 60px;
