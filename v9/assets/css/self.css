@@ -50,7 +50,8 @@ body {
 }
 
 .search_bar button img {
-    max-width: 25px;
+    width: 25px;
+    height: 25px;
 }
 
 .search_bar button {
