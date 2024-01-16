@@ -25,18 +25,17 @@ body {
 }
 
 .search_bar {
-    background-color: black;
-    /* width: 100%;
+    width: 100%;
     max-width: 500px;
     background-color: red;
     display: flex;
     align-items: center;
     border-radius: 60px;
     padding: 10px 20px;
-    backdrop-filter: blur(4px) saturate(180%); */
+    backdrop-filter: blur(4px) saturate(180%);
 } 
 
-/* .search_bar input {
+.search_bar input {
     background: transparent;
     flex: 1;
     border: 0;
@@ -61,4 +60,4 @@ body {
     height: 60px;
     background: #58629b;
     cursor: pointer;
-} */
+}
