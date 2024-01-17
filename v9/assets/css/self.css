@@ -67,6 +67,6 @@ body {
     max-width: 100%;
     height: auto;
     /* transform: translate(50%, 0%);*/
-    margin-left: 10%;
+    margin-left: 10vh;
     text-align: left;
 }
