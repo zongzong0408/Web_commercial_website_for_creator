@@ -62,7 +62,7 @@ body {
     cursor: pointer;
 }
 
-.pic {
+.pic_container {
     width: 50%;
     height: auto;
     max-width: 100%;
