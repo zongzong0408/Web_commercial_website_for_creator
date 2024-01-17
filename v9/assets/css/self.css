@@ -64,8 +64,9 @@ body {
 
 .pic1 {
     width: 70%;
-    max-width: 70%;
+    max-width: 100%;
     height: auto;
-    /* transform: translate(50%, 0%);
-    text-align: left; */
+    /* transform: translate(50%, 0%);*/
+    margin-left: 10%;
+    text-align: left;
 }
