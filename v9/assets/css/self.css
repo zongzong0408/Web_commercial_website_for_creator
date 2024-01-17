@@ -64,6 +64,7 @@ body {
 
 .pic1 {
     width: 70%;
+    max-width: 100%;
     height: auto;
     transform: translate(50%, 0%);
 }
