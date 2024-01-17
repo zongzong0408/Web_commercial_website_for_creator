@@ -66,5 +66,6 @@ body {
     width: 70%;
     max-width: 70%;
     height: auto;
-    transform: translate(50%, 0%);
+    /* transform: translate(50%, 0%);
+    text-align: left; */
 }
