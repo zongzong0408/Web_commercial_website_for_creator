@@ -25,7 +25,7 @@ body {
 }
 
 .search_bar {
-    width: 100%;
+    width: 50%;
     max-width: 800px;
     background: rgb(255, 255, 255, 0.2);
     display: flex;
@@ -40,7 +40,7 @@ body {
     flex: 1;
     border: 0;
     outline: none;
-    padding: 18px 20px;
+    padding: 2% 2.5%;
     font-size: 20px;
     color: #cac7ff;
 }
