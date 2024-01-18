@@ -73,5 +73,6 @@ body {
 .product_pic {
     width: 100%;
     height: 50%;
+    position: fixed;
     background-color: aqua;
 }
