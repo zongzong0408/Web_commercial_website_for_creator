@@ -436,7 +436,9 @@ header .navbar {
 
 .product-item img {
 	width: 100%;
-	overflow: cover;
+	height: auto;
+	max-height: 200px;
+	overflow: hidden
 }
 
 .product-item .down-content h4 {
